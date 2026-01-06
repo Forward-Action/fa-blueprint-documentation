@@ -4,101 +4,101 @@
 
 Skip to the specific part you need using the links below, or work through this document from beginning to end to create a sign up page.
 
-[**Blueprint \- How to use it**](#blueprint---how-to-use-it)	**[1](#blueprint---how-to-use-it)**
+[**Blueprint \- How to use it**](#blueprint---how-to-use-it)	
 
-[**What’s in this documentation?**](#what’s-in-this-documentation?)	**[1](#what’s-in-this-documentation?)**
+[**What’s in this documentation?**](#what’s-in-this-documentation?)	
 
-[**Creating a page**](#creating-a-page)	**[3](#creating-a-page)**
+[**Creating a page**](#creating-a-page)
 
-[Page Details Section](#page-details-section)	[4](#page-details-section)
+[Page Details Section](#page-details-section)	
 
-[Internal name](#internal-name)	[4](#internal-name)
+[Internal name](#internal-name)	
 
-[Slug](#slug)	[4](#slug)
+[Slug](#slug)	
 
-[Published](#published)	[4](#published)
+[Published](#published)	
 
-[Global Background](#global-background)	[4](#global-background)
+[Global Background](#global-background)	
 
-[Fixed Background?](#fixed-background?)	[4](#fixed-background?)
+[Fixed Background?](#fixed-background?)	
 
-[Show Progress Bar](#show-progress-bar)	[4](#show-progress-bar)
+[Show Progress Bar](#show-progress-bar)	
 
-[Meta section](#meta-section)	[4](#meta-section)
+[Meta section](#meta-section)	
 
-[Page title](#page-title)	[4](#page-title)
+[Page title](#page-title)	
 
-[Meta description](#meta-description)	[4](#meta-description)
+[Meta description](#meta-description)	
 
-[Facebook title, Facebook description and Facebook image](#facebook-title,-facebook-description-and-facebook-image)	[4](#facebook-title,-facebook-description-and-facebook-image)
+[Facebook title, Facebook description and Facebook image](#facebook-title-facebook-description-and-facebook-image)
 
-[Twitter title, Twitter description and Twitter image](#twitter-title,-twitter-description-and-twitter-image)	[5](#twitter-title,-twitter-description-and-twitter-image)
+[Twitter title, Twitter description and Twitter image](#twitter-title-twitter-description-and-twitter-image)	
 
-[Header and footer HTML](#header-and-footer-html)	[5](#header-and-footer-html)
+[Header and footer HTML](#header-and-footer-html)	
 
-[Content](#content)	[5](#content)
+[Content](#content)	
 
-[**Creating slides**](#creating-slides)	**[6](#creating-slides)**
+[**Creating slides**](#creating-slides)	
 
-[What are slides?](#what-are-slides?)	[6](#what-are-slides?)
+[What are slides?](#what-are-slides?)	
 
-[Slide ID and chaining slides together](#slide-id-and-chaining-slides-together)	[6](#slide-id-and-chaining-slides-together)
+[Slide ID and chaining slides together](#slide-id-and-chaining-slides-together)	
 
-[**Types of slide**](#types-of-slide)	**[7](#types-of-slide)**
+[**Types of slide**](#types-of-slide)	
 
-[Form slide](#form-slide)	[7](#form-slide)
+[Form slide](#form-slide)	
 
-[What the form slide looks like](#heading=h.a20lfum054xa)	[7](#heading=h.a20lfum054xa)
+[What the form slide looks like](#heading=h.a20lfum054xa)	
 
-[Content](#content-1)	[8](#content-1)
+[Content](#content-1)	
 
-[Read more content](#read-more-content)	[8](#read-more-content)
+[Read more content](#read-more-content)	
 
-[Show signature counter](#show-signature-counter)	[8](#show-signature-counter)
+[Show signature counter](#show-signature-counter)	
 
-[Mailchimp integration](#mailchimp-integration)	[8](#mailchimp-integration)
+[Mailchimp integration](#mailchimp-integration)	
 
-[List](#list)	[8](#list)
+[List](#list)	
 
-[Tags](#tags)	[8](#tags)
+[Tags](#tags)	
 
-[Form Fields](#form-fields)	[9](#form-fields)
+[Form Fields](#form-fields)	
 
-[Text field](#text-field)	[9](#text-field)
+[Text field](#text-field)	
 
-[Email field](#email-field)	[10](#email-field)
+[Email field](#email-field)	
 
-[Hidden field](#hidden-field)	[11](#hidden-field)
+[Hidden field](#hidden-field)	
 
-[Country field](#country-field)	[11](#country-field)
+[Country field](#country-field)
 
-[Radio buttons, Checkboxes and Select fields](#radio-buttons,-checkboxes-and-select-fields)	[12](#radio-buttons,-checkboxes-and-select-fields)
+[Radio buttons, Checkboxes and Select fields](#radio-buttons-checkboxes-and-select-fields)
 
-[Opt in](#opt-in)	[13](#opt-in)
+[Opt in](#opt-in)	
 
-[HTML content](#html-content)	[14](#html-content)
+[HTML content](#html-content)	
 
-[Other form options](#other-form-options)	[14](#other-form-options)
+[Other form options](#other-form-options)	
 
-[**Generic Slide**](#generic-slide)	**[16](#generic-slide)**
+[**Generic Slide**](#generic-slide)
 
-[Slide content](#slide-content)	[16](#slide-content)
+[Slide content](#slide-content)	
 
-[Buttons](#buttons)	[17](#buttons)
+[Buttons](#buttons)	
 
-[**Share Slide**](#share-slide)	**[18](#share-slide)**
+[**Share Slide**](#share-slide)	
 
-[**Embed Slide**](#embed-slide)	**[20](#embed-slide)**
+[**Embed Slide**](#embed-slide)
 
-[**Common slide options**](#common-slide-options)	**[21](#common-slide-options)**
+[**Common slide options**](#common-slide-options)	
 
-[Background](#background)	[21](#background)
+[Background](#background)	
 
-[Progress bar](#progress-bar)	[21](#progress-bar)
+[Progress bar](#progress-bar)	
 
-[**How analytics and cookie consent work**](#how-analytics-and-cookie-consent-work)	**[22](#how-analytics-and-cookie-consent-work)**
+[**How analytics and cookie consent work**](#how-analytics-and-cookie-consent-work)
 
-[Cookies banner](#cookies-banner)	[22](#cookies-banner)
+[Cookies banner](#cookies-banner)	
 
 ## **Creating a page** {#creating-a-page}
 
@@ -148,13 +148,13 @@ The name that will show up for the external users in their browser tab and in se
 
 The text used by search engines under the title. 
 
-#### Facebook title, Facebook description and Facebook image {#facebook-title,-facebook-description-and-facebook-image}
+#### Facebook title, Facebook description and Facebook image {#facebook-title-facebook-description-and-facebook-image}
 
 ‘Facebook title’,  ‘Facebook description’ and ‘Facebook image’ are what users will see before they share the handraiser on Facebook like below.
 
 #### ![][image3]
 
-#### Twitter title, Twitter description and Twitter image {#twitter-title,-twitter-description-and-twitter-image}
+#### Twitter title, Twitter description and Twitter image {#twitter-title-twitter-description-and-twitter-image}
 
 ‘Twitter title’,  ‘Twitter description’ and ‘Twitter image’ are what users will see as the preview when they share on Twitter.
 
@@ -288,7 +288,7 @@ Country is self explanatory and will be listed from a dropdown list when added t
 
 ### 
 
-##### Radio buttons, Checkboxes and Select fields {#radio-buttons,-checkboxes-and-select-fields}
+##### Radio buttons, Checkboxes and Select fields {#radio-buttons-checkboxes-and-select-fields}
 
 This is for mutually exclusive options like gender e.t.c.
 
