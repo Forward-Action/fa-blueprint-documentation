@@ -1,11 +1,5 @@
 # Summary
 
-## About this documentation
+## Blueprint
 
-* [Introduction](README.md)
-
-## Tracking
-
-* [Tracking](./tracking/tracking.md)
-* [GA4](./tracking/ga4.md)
-
+* [How to use it](README.md)
