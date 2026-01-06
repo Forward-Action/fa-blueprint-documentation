@@ -1,8 +1,8 @@
 {
   "license": "MIT",
-  "name": "fa-dev-documentation",
+  "name": "fa-blueprint-documentation",
   "version": "1.0.0",
-  "description": "Forward Action Documentation",
+  "description": "Forward Action Blueprint Documentation",
   "devDependencies": {
     "honkit": "^6.1.4"
   },
