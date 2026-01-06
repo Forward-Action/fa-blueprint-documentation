@@ -44,7 +44,7 @@ Skip to the specific part you need using the links below, or work through this d
 
 [Form slide](#form-slide)	
 
-[What the form slide looks like](#heading=h.a20lfum054xa)	
+[What the form slide looks like](#what-the-form-slide-looks-like)	
 
 [Content](#content-1)	
 
@@ -192,7 +192,7 @@ This will typically be the first slide in the journey. It contains the petition/
 
 **Note that a form slide will use a Blueprint-hosted form \- to embed a form, say from Engaging Networks or another platform, please see the Embed Slide (two column).**
 
-#### What the form slide looks like
+#### What the form slide looks like {#what-the-form-slide-looks-like}
 
 **Title**
 
