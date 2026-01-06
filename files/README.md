@@ -4,10 +4,6 @@
 
 Skip to the specific part you need using the links below, or work through this document from beginning to end to create a sign up page.
 
-[**Blueprint \- How to use it**](#blueprint---how-to-use-it)	
-
-[**What’s in this documentation?**](#what’s-in-this-documentation?)	
-
 [**Creating a page**](#creating-a-page)
 
 [Page Details Section](#page-details-section)	
